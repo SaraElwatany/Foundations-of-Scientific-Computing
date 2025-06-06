@@ -14,12 +14,13 @@ Lecture notes, assignments, and demonstrations related to the course.
 
 ## Usage
 
-**Clone the repository:**
+**1- Clone the repository:**
 
-bash
+```bash
 git clone https://github.com/SaraElwatany/Foundations-of-Scientific-Computing.git
+```
 
-**Open the Jupyter Notebooks using Jupyter Notebook or JupyterLab.**
+**2- Open the Jupyter Notebooks using Jupyter Notebook or JupyterLab.**
 
 
 
